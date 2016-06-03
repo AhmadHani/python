@@ -21,3 +21,5 @@ def all(name,age,school):
 
 
 all(name,age,school)
+
+# end :)
