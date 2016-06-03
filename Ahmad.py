@@ -16,7 +16,7 @@ school = input("Whats the study School")
 
 def all(name,age,school):
     print("#######",name,"########\n")
-    print("#######",age,"########")
+    print("#######11",age,"########")
     print("######",school,"########")
 
 
