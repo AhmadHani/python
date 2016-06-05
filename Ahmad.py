@@ -8,7 +8,12 @@
           | |               | || |                                            
           |_|               |_||_|                  
           
-          '''                          
+'''   
+
+
+# Version 4 :) In Ubuntu 16
+
+# 2:05 First Day Of the Ramadan :)                       
 
 name = input("what's your name")
 age = input("What's Age")
@@ -18,8 +23,6 @@ def all(name,age,school):
     print("#######",name,"########\n")
     print("#######11",age,"########")
     print("######",school,"########")
-
-
 all(name,age,school)
 
-# end :) 1 2 3 
+
